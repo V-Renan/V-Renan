@@ -2,7 +2,6 @@
 
 - 🔭 Estou em busca do famoso Estágio
 - 🌱 Estudando Java 
-- 😄 Pronouns: ele/dele
 
 #MY STATUS
 

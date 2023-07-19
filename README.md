@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Victor Renan
 
-- 🌱 Estudando Java 
 
 #MY STATUS
 
